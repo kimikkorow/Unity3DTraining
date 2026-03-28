@@ -53,7 +53,8 @@
 >* [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 >* [Toonflow-app 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频](https://github.com/HBAI-Ltd/Toonflow-app)
 >* [JJYB_AI_VideoAutoCut- 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)
->* [Pixelle-Video AI 全自动短视频引擎](https://github.com/AIDC-AI/Pixelle-Video)  
+>* [Pixelle-Video AI 全自动短视频引擎](https://github.com/AIDC-AI/Pixelle-Video)
+>* [VideoCaptioner - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手](https://github.com/WEIFENG2333/VideoCaptioner)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
