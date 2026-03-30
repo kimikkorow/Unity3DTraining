@@ -322,4 +322,5 @@
 >* [【厚积薄发】UE的粒子系统开销怎么优化](https://mp.weixin.qq.com/s/cv21rKc6o8yncIfvRL2zHw)
 >* [【厚积薄发】堆内存对象的Managed Size具体是如何计算的](https://mp.weixin.qq.com/s/_p0T1h0MumAUgTCa3aiw3Q)
 >* [【厚积薄发】GPU带宽分析中GPU Non-Base Level Textures过低是什么意思](https://mp.weixin.qq.com/s/fL9IJYkK7dhx5d4ilSA7kw)
->* [【厚积薄发】如何降低Animator的调用次数](https://mp.weixin.qq.com/s/6b1pq6zrKlWzXZRC8Wc01A)  
+>* [【厚积薄发】如何降低Animator的调用次数](https://mp.weixin.qq.com/s/6b1pq6zrKlWzXZRC8Wc01A)
+>* [【厚积薄发】小游戏的Spine数量过多开销大](https://mp.weixin.qq.com/s/KkOBXVDt6iYSVLWmmJmiJA)  
