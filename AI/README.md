@@ -31,7 +31,8 @@
 >* [awesome-agent-skills - Agent Skills 权威中文指南：快速入门、推荐技能、最新资讯与实战案例](https://github.com/libukai/awesome-agent-skills?tab=readme-ov-file)
 >* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 >* [awesome-claude-skills (The awesome collection of Claude Skills and resources)](https://github.com/VoltAgent/awesome-claude-skills)
->* [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)  
+>* [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+>* [playwright-skill - Claude Code Skill for browser automation with Playwright](https://github.com/lackeyjb/playwright-skill)  
 
 ### RAG  
 >* [🔍大模型应用开发实战一：RAG技术全栈指南](https://github.com/datawhalechina/all-in-rag)  
