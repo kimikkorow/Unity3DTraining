@@ -46,8 +46,9 @@
 >* [cherry-studio](https://github.com/CherryHQ/cherry-studio)
 >* [AionUi - Free, local, open-source 24/7 Cowork and OpenClaw](https://github.com/iOfficeAI/AionUi/tree/main)  
 
-### AI creation  
->* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+### AIGC  
+>* [ComfyUI](https://github.com/Comfy-Org/ComfyUI)  
+>* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
 >* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)
 >* [RedInk - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器](https://github.com/HisMax/RedInk)
 >* [Wan2GP - A fast AI Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP)
