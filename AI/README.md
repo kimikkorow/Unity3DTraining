@@ -48,6 +48,7 @@
 
 ### AIGC  
 >* [ComfyUI](https://github.com/Comfy-Org/ComfyUI)  
+>* [ComfyUI-Desktop](https://github.com/Comfy-Org/desktop)  
 >* [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)  
 >* [aimangastudio - 一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制](https://github.com/morsoli/aimangastudio)
 >* [RedInk - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器](https://github.com/HisMax/RedInk)
