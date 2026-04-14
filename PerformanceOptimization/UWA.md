@@ -323,4 +323,5 @@
 >* [【厚积薄发】堆内存对象的Managed Size具体是如何计算的](https://mp.weixin.qq.com/s/_p0T1h0MumAUgTCa3aiw3Q)
 >* [【厚积薄发】GPU带宽分析中GPU Non-Base Level Textures过低是什么意思](https://mp.weixin.qq.com/s/fL9IJYkK7dhx5d4ilSA7kw)
 >* [【厚积薄发】如何降低Animator的调用次数](https://mp.weixin.qq.com/s/6b1pq6zrKlWzXZRC8Wc01A)
->* [【厚积薄发】小游戏的Spine数量过多开销大](https://mp.weixin.qq.com/s/KkOBXVDt6iYSVLWmmJmiJA)  
+>* [【厚积薄发】小游戏的Spine数量过多开销大](https://mp.weixin.qq.com/s/KkOBXVDt6iYSVLWmmJmiJA)
+>* [【厚积薄发】Spine动画更新耗时问题治理](https://mp.weixin.qq.com/s/4YugYNezLXiJkR1Js6Evxg)  
