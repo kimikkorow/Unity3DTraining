@@ -34,6 +34,7 @@
 >* [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 >* [playwright-skill - Claude Code Skill for browser automation with Playwright](https://github.com/lackeyjb/playwright-skill)
 >* [graphify - AI coding assistant skill](https://github.com/safishamsi/graphify/tree/v3)
+>* [obsidian-skills](https://github.com/kepano/obsidian-skills)  
 
 ### CLI  
 >* [teamcity-cli](https://github.com/JetBrains/teamcity-cli#)
