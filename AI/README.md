@@ -114,7 +114,8 @@
 >* [Cursor Tutorial](https://cursor.com/cn/learn/how-ai-models-work)
 >* [使用 Agent 编码的最佳实践](https://cursor.com/cn/blog/agent-best-practices)
 >* [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
->* [Claude Code Doc](https://code.claude.com/docs/zh-CN/overview)  
+>* [Claude Code Doc](https://code.claude.com/docs/zh-CN/overview)
+>* [claude-code-guide (Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user)](https://github.com/zebbern/claude-code-guide)  
 
 ### Service  
 >* [claude-relay-service - CRS-自建Claude Code镜像](https://github.com/Wei-Shaw/claude-relay-service)
